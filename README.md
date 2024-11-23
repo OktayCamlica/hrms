@@ -1,0 +1,1 @@
+Bu proje, bir eğitim kampı kapsamında Java ile geliştirilmiş temel bir İnsan Kaynakları Yönetim Sistemi (HRMS) uygulamasıdır. Uygulama, insan kaynakları süreçlerini yönetmeyi kolaylaştırmak için tasarlanmış bir prototiptir.
